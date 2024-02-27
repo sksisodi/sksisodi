@@ -7,5 +7,5 @@ Now, I'm deep in the game 🎮—literally! I'm exploring the cool and complex d
 
 From being a data analyst ninja 🥷 to leading projects, coding up a storm, and even dabbling in qualitative coding, my journey's been anything but linear. It's a tale of adaptation, learning, and, most importantly, fun!
 
-Curious about the chapters of my journey? 📖 Check out my portfolio or Github for a peek into the diverse projects that have been my playgrounds and battlefields. And if you're keen to chat, share ideas, or just say hi, hit me up on 💼 [LinkedIn]([https://www.linkedin.com/in/sisodiyashwetaiitr/]), 📸 [Instagram]([https://www.instagram.com/shwetasisodiya?igsh=MmVlMjlkMTBhMg%3D%3D&utm_source=qr]), or drop me an 📧 [email]([mailto:sksisodi@ucsc.edu]) . Let's make some data magic happen together!
+Curious about the chapters of my journey? 📖 Check out my [portfolio](https://sksisodi.github.io/portfolio.html) or Github for a peek into the diverse projects that have been my playgrounds and battlefields. And if you're keen to chat, share ideas, or just say hi, hit me up on 💼 [LinkedIn](https://www.linkedin.com/in/sisodiyashwetaiitr/), 📸 [Instagram](https://www.instagram.com/shwetasisodiya?igsh=MmVlMjlkMTBhMg%3D%3D&utm_source=qr), or drop me an 📧 [email](mailto:sksisodi@ucsc.edu). Let's make some data magic happen together!
 
